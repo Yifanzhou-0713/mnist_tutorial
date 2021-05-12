@@ -43,8 +43,9 @@ the support vector machine | 97.97% | 86.80%
 the changed support vector machine | 92.28% | 88.60% 
 
 # The Net for MNIST
-In [`pytorch.ipynb`](pytorch.ipynb), I constructed a simple net for training the MNIST dataset. For MNIST, there is a suitable net called `Lenet5`, the layers of its structure are as the picture shown:![lenet5](C:\Users\周轶凡0713\Desktop\lenet5.png)
-                                                                Figure 1. Structure of Lenet5
+In [`pytorch.ipynb`](pytorch.ipynb), I constructed a simple net for training the MNIST dataset. For MNIST, there is a suitable net called `Lenet5`, the layers of its structure are as the picture shown:![lenet5](lenet5.png)
+
+                                                 Figure 1. Structure of Lenet5
 * 1. Layer C1: convolutional layer with 6 feature maps and each unit in each feature map is
 connected to a 5 × 5 neighborhoods in the input. C1 contains 156 training parameters and
 122304 connections.
