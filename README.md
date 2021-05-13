@@ -20,7 +20,7 @@ I finished the homework in the following environments:
 * python 3.7.3
 * numpy 1.19.5
 * matplotlib 3.4.1
-* sklearn 0.24.1
+* sklearn 0.24.1 (Thus the data type after reading dataset is pandas.dataframe instead of numpy, however, it doesn't matter when running the notebook)
 * torch 1.7.0
 * torchvision 0.8.1
 
